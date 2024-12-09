@@ -14,6 +14,7 @@ def load_lottie_url(url: str):
 
 # Add a header section with a programming theme
 st.title("The Programming Journey 💻")
+st.title("Alvin G. Espiel")
 st.subheader("Exploring the World of Code and Software Development 🖥️")
 
 # Lottie animation for welcome message (programming-related)
